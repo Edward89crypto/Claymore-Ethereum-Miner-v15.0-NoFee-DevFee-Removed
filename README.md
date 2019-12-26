@@ -4,7 +4,7 @@ Claymore Ethereum Miner v15.0 No Fee - Claymore 15.0 DevFee Removed
 This is a No Fee version of Claymore 15.0 Supercharged Ethereum Miner
 It will automatically detect once devfee is triggered and will swap out to your ETH address and continue mining to your ETH address.
 
-DOWNLOAD (https://github.com/d33z0r-reloaded/Claymore-14.6-NoFee-Fee-Removed/releases/download/14.6/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v14.6.7z)
+DOWNLOAD (https://github.com/d33z0r-reloaded/Claymore-Ethereum-Miner-v15.0-NoFee-DevFee-Removed/releases/download/15.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.zip)
 EXTRACT ^ WITH 7ZIP!
 
 Ignore the following tags, just for easier finding!
